@@ -1,3 +1,25 @@
-# web-server-bash
+# Web Server in Bash
 
-A simple web server implemented in Bash.
+Web server implemented entirely in Bash. It was created for the purpose of learning Bash scripting and understanding the fundamentals of how web servers work.
+
+## Features
+
+*   **Portable:** Runs on any system with Bash.
+*   **Easy to use:** No complex configuration needed. Just run the script!
+*   **Static Content:** Serves static files like HTML, CSS, and JavaScript.
+
+## Usage
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/stdMurilloMelo/web-server-bash.git
+    ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd web-server-bash
+    ```
+3. **Run the server:**
+    ```bash
+    ./server
+    ```
+4. **Open your browser and go to `http://localhost:8080`**
