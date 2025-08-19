@@ -2,12 +2,6 @@
 
 Web server implemented entirely in Bash. It was created for the purpose of learning Bash scripting and understanding the fundamentals of how web servers work.
 
-## Features
-
-*   **Portable:** Runs on any system with Bash.
-*   **Easy to use:** No complex configuration needed. Just run the script!
-*   **Static Content:** Serves static files like HTML, CSS, and JavaScript.
-
 ## Usage
 
 1. **Clone the repository:**
